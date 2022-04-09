@@ -1,2 +1,2 @@
-# faculdade
-trabalhos da faculdade
+# trabalhos python
+trabalhos da faculdade de python
